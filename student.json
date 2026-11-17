@@ -1,0 +1,24 @@
+
+{
+  "record_date": "2026-11-15",
+  "goal": {
+    "exam": "APCS",
+    "target_level": "初級",
+    "target_year_month": "2027-01/03",
+    "exact_exam_date": null
+  },
+  "teaching_sessions": [
+    {
+      "date": "2026-11-15",
+      "platform": "本機",
+      "planned_questions": "",
+      "completed_questions": "",
+      "pending_questions": "",
+      "student_issue": "",
+      "teaching_note": "安裝visual studio, python, 輸入、輸出介紹",
+      "homework": "複習",
+      "homework_status": "pending",
+      "next_class": "第二章"
+    }
+  ]
+}
