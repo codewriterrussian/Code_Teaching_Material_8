@@ -19,6 +19,21 @@
       "homework": "複習",
       "homework_status": "pending",
       "next_class": "第二章"
+    },
+
+    {
+      "date": "2026-11-22",
+      "platform": "本機",
+      "planned_questions": "Q4、Q5（課後練習）",
+      "completed_questions": "無",
+      "pending_questions": "Q4、Q5（作業待完成）",
+      "student_issue": "無",
+      "teaching_note": "本堂課介紹 Python 基礎語法，包含 input() 輸入、變數的宣告與賦值，以及 int、float、str 等資料型態。說明資料型態轉換及輸入資料的基本處理方式。",
+      "homework": "Q4, Q5 練習題",
+      "homework_status": "pending",
+      "next_class": "建議檢討 Q4、Q5 練習題，複習輸入、變數與資料型態轉換，並銜接基本運算子及運算式練習。"
     }
+
   ]
 }
+
